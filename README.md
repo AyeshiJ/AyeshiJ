@@ -1,6 +1,6 @@
 # Hi, I'm Ayeshi Jayawardhana 👋
 
-**Quality Assurance**
+**Software Quality Assurance | BSc (Hons) in IT, Specializing in Software Engineering**
 
 ---
 
