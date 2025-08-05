@@ -1,6 +1,6 @@
 # Hi, I'm Ayeshi Jayawardhana 👋
 
-**Quality Assurance Enthusiast**
+**Quality Assurance**
 
 ---
 
@@ -15,15 +15,15 @@ I am passionate about software quality and testing. I have experience in both ma
 - **Testing:** Manual Testing, Test Case Design, Bug Reporting  
 - **Automation:** Selenium WebDriver with Java, TestNG  
 - **API Testing:** Postman  
-- **Tools:** Jira, Maven, Git  
-- **Languages:** Java, JavaScript  
+- **Tools:** Jira, Git  
+- **Languages:** Java, JavaScript, PHP
 - **Methodologies:** Agile, Scrum  
 
 ---
 
 ## Connect with Me
 
-[LinkedIn](https://linkedin.com/in/your-linkedin) | [GitHub](https://github.com/your-github)
+[LinkedIn](www.linkedin.com/in/ayeshi-jayawardhana) | [GitHub](https://github.com/AyeshiJ)
 
 ---
 
