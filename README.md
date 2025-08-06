@@ -23,7 +23,7 @@ I am passionate about software quality and testing. I have experience in both ma
 
 ## Connect with Me
 
-[LinkedIn](www.linkedin.com/in/ayeshi-jayawardhana) | [GitHub](https://github.com/AyeshiJ)
+[LinkedIn](https://www.linkedin.com/in/ayeshi-jayawardhana/) | [GitHub](https://github.com/AyeshiJ)
 
 ---
 
